@@ -5,7 +5,7 @@ using namespace std;
 int main(){
   char a=a;
   cin>>a;
-  if(coversione (a)==false){
+  if(conversione (a)==false){
     cout<<"errore";
   }
   else{
